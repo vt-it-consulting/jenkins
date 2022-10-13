@@ -18,7 +18,7 @@ node {
             }
 
             stage ("dotnet test") {
-				dotnet_test();
+				// dotnet_test();
             }
 
             stage ("dotnet publish") {
