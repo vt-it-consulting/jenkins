@@ -62,7 +62,7 @@ def dotnet_test(){
     }
 
     dir('Merken.NetCoreBuild.Transform') {
-		sh(script: 'dotnet run ../Merken.NetCoreBuild.Test/xunit-results.xml xunitdotnet-2.0-to-junit-2.xsl junit-results.xml', returnStdout: true);
+		// sh(script: 'dotnet run ../Merken.NetCoreBuild.Test/xunit-results.xml xunitdotnet-2.0-to-junit-2.xsl junit-results.xml', returnStdout: true);
 
         step([$class: 'XUnitBuilder',
             thresholds: [[$class: 'FailedThreshold', unstableThreshold: '1']],
