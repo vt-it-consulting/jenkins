@@ -62,10 +62,7 @@ THE SOFTWARE.
 
               <xsl:if test="./failure">
                 <failure>
-MESSAGE:
 <xsl:value-of select="normalize-space(./failure/message)"/>
-+++++++++++++++++++
-STACK TRACE:
 <xsl:value-of select="normalize-space(./failure/stack-trace)"/>
                 </failure>
               </xsl:if>

@@ -10,7 +10,6 @@ namespace Merken.NetCoreBuild.Test
         {
             var str = "This_Is_A_Test";
             var strArray = str.Split(new String[]{"_"}, StringSplitOptions.RemoveEmptyEntries);
-
             Assert.Equal("Test", strArray[3]);
         }
     }
