@@ -1,0 +1,31 @@
+﻿@page "/"
+
+<h1>Bethany's Pie Shop HRM</h1>
+
+<h2>Welcome!</h2>
+<br />
+
+@foreach (var widgetType in Widgets)
+{
+    <DynamicComponent Type="widgetType"></DynamicComponent>
+}
+
+
+
+<select @onchange="dropdownChange">
+            <option value="">Select a value</option>
+            <option value="@nameof(Counter)">Counter</option>
+            <option value="@nameof(FetchData)">FetchData</option>
+</select>
+  
+<h3>Dynamic Component Demo</h3>
+
+@*@if (type is not null)
+{
+    <DynamicComponent Type="type" Parameters="@components[type.Name].Parameters" />
+}*@
+
+
+<h2>Welcome!</h2>
+<br />
+ 
