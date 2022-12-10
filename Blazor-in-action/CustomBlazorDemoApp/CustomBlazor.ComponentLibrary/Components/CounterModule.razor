@@ -1,0 +1,34 @@
+﻿<PageTitle>Counter</PageTitle>
+ 
+<h1>@Title</h1>
+ 
+<p role="status">Current count: @_counter</p>
+ 
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+ 
+@code {
+    private int _counter;
+
+
+    [Parameter]
+    public string Title { get; set; }
+    [Parameter]
+    public int currentCount { get; set; }
+
+    protected override void OnInitialized()
+    {
+
+        this._counter = currentCount;
+    }
+
+    private void IncrementCount()
+    {
+        _counter++;
+        OnCounterClicked.InvokeAsync(_counter);
+    }
+    
+    [Parameter]
+    public EventCallback<int> OnCounterClicked { get; set; }
+
+
+}

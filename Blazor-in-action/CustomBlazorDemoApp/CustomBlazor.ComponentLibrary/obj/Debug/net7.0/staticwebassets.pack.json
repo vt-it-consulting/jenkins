@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\DevGit-Vt-It-Consulting\\Blazor-in-action\\CustomBlazorDemoApp\\CustomBlazor.ComponentLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CustomBlazor.ComponentLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CustomBlazor.ComponentLibrary.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\DevGit-Vt-It-Consulting\\Blazor-in-action\\CustomBlazorDemoApp\\CustomBlazor.ComponentLibrary\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\DevGit-Vt-It-Consulting\\Blazor-in-action\\CustomBlazorDemoApp\\CustomBlazor.ComponentLibrary\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\DevGit-Vt-It-Consulting\\Blazor-in-action\\CustomBlazorDemoApp\\CustomBlazor.ComponentLibrary\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "C:\\DevGit-Vt-It-Consulting\\Blazor-in-action\\CustomBlazorDemoApp\\CustomBlazor.ComponentLibrary\\wwwroot\\images\\bethanylogo.png",
+      "PackagePath": "staticwebassets\\images\\bethanylogo.png"
+    },
+    {
+      "Id": "C:\\DevGit-Vt-It-Consulting\\Blazor-in-action\\CustomBlazorDemoApp\\CustomBlazor.ComponentLibrary\\wwwroot\\images\\jeep.png",
+      "PackagePath": "staticwebassets\\images\\jeep.png"
+    },
+    {
+      "Id": "C:\\DevGit-Vt-It-Consulting\\Blazor-in-action\\CustomBlazorDemoApp\\CustomBlazor.ComponentLibrary\\wwwroot\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\pattern.png"
+    },
+    {
+      "Id": "C:\\DevGit-Vt-It-Consulting\\Blazor-in-action\\CustomBlazorDemoApp\\CustomBlazor.ComponentLibrary\\wwwroot\\images\\profilePicture.jpg",
+      "PackagePath": "staticwebassets\\images\\profilePicture.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CustomBlazor.ComponentLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CustomBlazor.ComponentLibrary.props",
+      "PackagePath": "build\\CustomBlazor.ComponentLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CustomBlazor.ComponentLibrary.props",
+      "PackagePath": "buildMultiTargeting\\CustomBlazor.ComponentLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CustomBlazor.ComponentLibrary.props",
+      "PackagePath": "buildTransitive\\CustomBlazor.ComponentLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

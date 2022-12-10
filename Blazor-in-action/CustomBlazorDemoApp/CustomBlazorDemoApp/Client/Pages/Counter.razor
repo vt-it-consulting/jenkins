@@ -1,0 +1,23 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+
+
+<CounterModule OnCounterClicked="OnCounterClicked" currentCount="1" Title="Counter from module" />
+
+<h3>ComponentLibrary.JeepYJ</h3>
+
+<p>
+    <img alt="Jeep YJ&reg;" src="_content/CustomBlazor.ComponentLibrary/images/jeep.png" />
+</p>
+
+
+@{
+
+    void OnCounterClicked(int count)
+    {
+        Console.WriteLine($"actual count: {count}");
+    }
+
+
+}

@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = CustomBlazor.ComponentLibrary
+build_property.RootNamespace = CustomBlazor.ComponentLibrary
+build_property.ProjectDir = C:\DevGit-Vt-It-Consulting\Blazor-in-action\CustomBlazorDemoApp\CustomBlazor.ComponentLibrary\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\DevGit-Vt-It-Consulting\Blazor-in-action\CustomBlazorDemoApp\CustomBlazor.ComponentLibrary
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/DevGit-Vt-It-Consulting/Blazor-in-action/CustomBlazorDemoApp/CustomBlazor.ComponentLibrary/Components/CounterModule.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb3VudGVyTW9kdWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DevGit-Vt-It-Consulting/Blazor-in-action/CustomBlazorDemoApp/CustomBlazor.ComponentLibrary/Components/InboxWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmJveFdpZGdldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DevGit-Vt-It-Consulting/Blazor-in-action/CustomBlazorDemoApp/CustomBlazor.ComponentLibrary/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DevGit-Vt-It-Consulting/Blazor-in-action/CustomBlazorDemoApp/CustomBlazor.ComponentLibrary/Components/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-v5hcdlrfsq
